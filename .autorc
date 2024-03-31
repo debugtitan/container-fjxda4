@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "debugtitan",
+  "repo": "container-fjxda4",
+  "name": "debugtitan",
+  "email": "alts.devs@gmail.com",
+}
